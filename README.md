@@ -1,7 +1,8 @@
 # MayaSceneBuilder
 
 This Simple UI allows you to create different objects with your desire number and color. the Action combo-box has three features: Update color, Clear(delete specific objects) and Shuffle Objects. At the bottom you can see all the objects data that you added in the scene, such as Transdorm and Shape name, shader name, shadding group and transform matrix. at the end you can clear the whole scene!  
-https://youtu.be/chtEhuxFPZQ
+
+Youtube Video Link : https://youtu.be/chtEhuxFPZQ
 
 
 
